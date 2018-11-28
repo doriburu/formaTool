@@ -1,6 +1,7 @@
 # 概要
-IM-FormaDesigner アプリケーション内のクライアントサイドJavaScriptをまとめて１つのzipファイルにする
 intra-mart Accel Platform スクリプト開発
+
+IM-FormaDesigner アプリケーション内のクライアントサイドJavaScriptをまとめて１つのzipファイルにする
 
 # 使い方
 プロジェクトのプログラムをeBuilderで展開。もしくはresin内に直接配置する
