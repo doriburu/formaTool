@@ -1,0 +1,1 @@
+# IM-FormaDesigner アプリケーション内のクライアントサイドJavaScriptをまとめて１つのzipファイルにする
