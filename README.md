@@ -1,5 +1,5 @@
 # 概要
-intra-mart Accel Platform スクリプト開発
+intra-mart Accel Platform スクリプト開発で作成ツール
 
 IM-FormaDesigner アプリケーション内のクライアントサイドJavaScriptをまとめて１つのzipファイルにする
 
