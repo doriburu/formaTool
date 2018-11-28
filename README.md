@@ -1,11 +1,11 @@
 # IM-FormaDesigner スクリプト一括取得ツール
 
-# 概要
+## 概要
 intra-mart Accel Platform スクリプト開発で作成ツール
 
 IM-FormaDesigner アプリケーション内のクライアントサイドJavaScriptをまとめて１つのzipファイルにする
 
-# 使い方
+## 使い方
 プロジェクトのプログラムをeBuilderで展開。もしくはresin内に直接配置する
 
 ブラウザで下記URLに飛ぶとしばらくしてzipファイルがダウンロードされる
