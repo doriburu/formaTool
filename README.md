@@ -8,7 +8,7 @@ IM-FormaDesigner アプリケーション内のクライアントサイドJavaSc
 
 ブラウザで下記URLに飛ぶとしばらくしてzipファイルがダウンロードされる
 
-[intra-martベースURL]/[テナントID]/tool/getFormaScript
+[intra-martベースURL]/tool/getFormaScript
 
 例：
 
